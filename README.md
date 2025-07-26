@@ -1,4 +1,4 @@
-<h1> Troubleshooting Network Issue</h1>
+<h1> Troubleshooting Network Issues</h1>
 
 <h2>Description</h2>
 This project demonstrates the complete process of configuring a virtual home network using GNS3 and OpenWRT, from building the network topology and connecting devices to managing router settings and verifying internet access. It highlights practical networking skills such as assigning interfaces, identifying DHCP issues, and interpreting IP configuration data within a Linux environment, as well as using browser-based tools to configure router settings and test external connectivity. The task reinforces essential IT technician competencies in network setup, basic troubleshooting, and foundational router management.
